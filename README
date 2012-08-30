@@ -1,0 +1,10 @@
+Crud Servlet Sederhana
+
+buat database crudservlet
+buat tabel person dengan field id,nama,alamat
+
+setting database ada pada class JdbcProperties.java
+
+
+
+Saiful Bahri
